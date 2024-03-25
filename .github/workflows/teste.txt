@@ -1,0 +1,25 @@
+
+MatheusLobo@MatheusLobo MINGW64 ~
+$ git config --global credential.helper store
++
+bash: +: command not found
+
+MatheusLobo@MatheusLobo MINGW64 ~
+$ git config --global credential.helper store
+
+MatheusLobo@MatheusLobo MINGW64 ~
+$ git credential-store --file ~/.git-credentials store
+echo "[7](https://github.com) username=<MatheusLobo> password=<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>" >> ~/.git-credentials
+
+
+MatheusLobo@MatheusLobo MINGW64 ~
+$ git clone https://github.com/MatheusLobo/A320241.git
+Cloning into 'A320241'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+
+
+https://www.youtube.com/watch?v=F51HlrEeedw
