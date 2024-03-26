@@ -9,7 +9,7 @@ $ git config --global credential.helper store
 
 MatheusLobo@MatheusLobo MINGW64 ~
 $ git credential-store --file ~/.git-credentials store
-echo "[7](https://github.com) username=<MatheusLobo> password=<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>" >> ~/.git-credentials
+echo "[7](https://github.com) username=<MatheusLobo> password=<>" >> ~/.git-credentials
 
 
 MatheusLobo@MatheusLobo MINGW64 ~
